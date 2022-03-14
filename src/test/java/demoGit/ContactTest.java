@@ -7,5 +7,6 @@ public class ContactTest {
 public void contTest()
 {
 	System.out.println("contact");
+	System.out.println("Hello");
 }
 }
